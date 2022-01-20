@@ -38,22 +38,9 @@ public class kullanicigirisi {
                 System.out.println("Yeni şifre oluşturuldu...");
             }
 
-
-
-
-
-
-
-
         }
-
-
-        }
-
-
-
-
-    }
+      }
+     }
 
 
 
